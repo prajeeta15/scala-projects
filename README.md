@@ -9,14 +9,16 @@ beginner to intermediate level Scala projects
 - sbt build tool (recommended)
 
 ## check 
-terminal: java --version
-scala --version
+- terminal: java --version
+- scala --version
+- 
 ![image](https://github.com/user-attachments/assets/1b89208e-f3e9-4ae6-b2cd-da70846448ef)
 this is how it should look once correctly installed and system path variables edited.
-if it says "scala is not recognized .." edit the system variables. 
-java_home (if present or create it) -> copy the location from "where java" on cmd to be precise 
-then path -> edit -> add java_home so scala can recognize the JVM
-check in cmd again.
+
+- if it says "scala is not recognized .." edit the system variables. 
+- java_home (if present or create it) -> copy the location from "where java" on cmd to be precise 
+- then path -> edit -> add java_home so scala can recognize the JVM
+- check in cmd again.
 
 
 # 1. Simple Chess Game in Scala
